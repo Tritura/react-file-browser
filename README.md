@@ -36,22 +36,9 @@
     <br />
 </p>
 
-Chonky is a file browser component for React. It tries to recreate the native file
+Aile browser component for React. It tries to recreate the native file
 browsing experience in your browser. This means your users can make selections, drag
 & drop files, toggle between _List_ and _Grid_ file views, use keyboard shortcuts, and
 much more!
 
-### [Click here for documentation and examples.](https://chonky.io/)
-
-> Please [create an issue](https://github.com/TimboKZ/Chonky/issues) if you have a
-> problem or want to request a feature.
-
-## Preview
-
-<p align="center">
-  <img src="https://chonky.io/chonky-v2-preview.gif" alt="Chonky preview">
-</p>
-
-## License
-
-MIT © [Tim Kuzhagaliyev](https://github.com/TimboKZ) 2020
+Forked from [Chonky](https://github.com/TimboKZ/Chonky)https://github.com/TimboKZ/Chonky
