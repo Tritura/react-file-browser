@@ -86,7 +86,7 @@ export const defaultFormatters: ChonkyFormatters = {
             return intl.formatDate(safeModDate, {
                 dateStyle: 'medium',
                 timeStyle: 'short',
-            });
+            } as Intl.DateTimeFormatOptions);
         } else {
             return null;
         }
